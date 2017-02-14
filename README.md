@@ -116,7 +116,7 @@ Here is an example of the final result
 
 The pipeline used by the video is coded in the `process_image` function defined in 22nd code cell of [the iPhython Notebook](./Advanced-Lane-Lines.ipynb).  It is is just a sequence of the pipeline we just described in the previous section. Then the video is encoded using this pipeline.
 
-Here's a [link to my video result]()
+Here's a [link to my video result](https://www.youtube.com/watch?v=HqUtFB8r368)
 
 
 ##Discussion
